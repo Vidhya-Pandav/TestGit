@@ -1,0 +1,18 @@
+
+[pivotal-tracker]
+project-id = 1067990
+
+[project]
+project-name = V2 - Internal - V2GPTI
+project-manager = 
+project-manager-email = 
+
+[toggl]
+project-id = 
+
+[platform]
+platform-name = others
+
+[spec]
+spec-path = v2gpti.gemspec
+
